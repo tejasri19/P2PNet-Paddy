@@ -1,6 +1,6 @@
 ## Deep Learning based framework for panicle counting in  UAV captued paddy crop
 
-The dataset and code will be made available soon.
+The dataset will be made available soon.
 
 Stay tuned!
 
